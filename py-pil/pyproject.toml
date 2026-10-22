@@ -1,5 +1,5 @@
 [project]
-name = "lsystems"
+name = "lsystems-py-pil"
 version = "0.0.1"
 authors = [
   { name="Vincent Verhoeven" },
