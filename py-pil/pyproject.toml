@@ -1,0 +1,18 @@
+[project]
+name = "lsystems"
+version = "0.0.1"
+authors = [
+  { name="Vincent Verhoeven" },
+]
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = [
+  "pillow"
+]
+
+[project.scripts]
+lsystem-generate = "generate:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

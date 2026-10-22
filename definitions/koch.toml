@@ -1,0 +1,8 @@
+# Koch snowflake
+
+start = "F++F++F"
+angle = 60
+
+[[production]]
+from = "F"
+to = "F-F++F-F"

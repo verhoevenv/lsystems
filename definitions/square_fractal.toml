@@ -1,0 +1,7 @@
+# start from a square
+start = "F+F+F+F"
+angle = 90
+
+[[production]]
+from = "F"
+to = "F+F-F-FF+F+F-F"

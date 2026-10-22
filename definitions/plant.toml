@@ -1,0 +1,6 @@
+start = "F"
+angle = 22.5
+
+[[production]]
+from = "F"
+to = "FF-[-F+F+F]+[+F-F-F]"

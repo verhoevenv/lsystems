@@ -1,0 +1,13 @@
+# Dragon curve
+# try 10+ iterations
+
+start = "F"
+angle = 90
+
+[[production]]
+from = "F"
+to = "F+G"
+
+[[production]]
+from = "G"
+to = "F-G"

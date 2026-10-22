@@ -1,0 +1,12 @@
+# Sierpinksi arrowhead
+
+start = "F"
+angle = 60
+
+[[production]]
+from = "F"
+to = "G-F-G"
+
+[[production]]
+from = "G"
+to = "F+G+F"

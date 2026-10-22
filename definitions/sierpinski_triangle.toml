@@ -1,0 +1,13 @@
+# Sierpinksi triangle
+
+# Start from a triangle
+start = "F-G-G"
+angle = 120
+
+[[production]]
+from = "F"
+to = "F-G+F+G-F"
+
+[[production]]
+from = "G"
+to = "GG"

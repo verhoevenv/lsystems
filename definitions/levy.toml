@@ -1,0 +1,8 @@
+# Levy C curve
+
+start = "F"
+angle = 45
+
+[[production]]
+from = "F"
+to = "-F++F-"
